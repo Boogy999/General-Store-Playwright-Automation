@@ -1,0 +1,22 @@
+{
+  "name": "general-store-playwright-appium",
+  "version": "1.0.0",
+  "description": "General Store mobile automation – Appium + Mocha + TypeScript (7-step main flow)",
+  "scripts": {
+    "test": "mocha --config .mocharc.cjs",
+    "build": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@wdio/types": "^8.29.1",
+    "chai": "^4.4.1",
+    "webdriverio": "^8.29.1"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.3.12",
+    "@types/mocha": "^10.0.6",
+    "@types/node": "^20.11.17",
+    "mocha": "^10.3.0",
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.3"
+  }
+}

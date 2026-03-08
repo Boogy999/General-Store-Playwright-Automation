@@ -1,0 +1,18 @@
+{
+  "testUsers": [
+    {
+      "testId": "TC_001",
+      "name": "Ahmed Hassan",
+      "country": "Andorra",
+      "gender": "Male",
+      "productIndex": 0
+    },
+    {
+      "testId": "TC_002",
+      "name": "Sara Mohamed",
+      "country": "Andorra",
+      "gender": "Female",
+      "productIndex": 1
+    }
+  ]
+}
